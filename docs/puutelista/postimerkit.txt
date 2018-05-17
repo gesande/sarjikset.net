@@ -23,18 +23,18 @@
 90B 10p
 93B 50p
 
-571II 0,05mk **/o vihkosta AV4 (1968)
-571II 0,05mk **/o vihkosta AV5 (1972)
-571II 0,05mk **/o vihkosta AV? (1974)
+571II 0,05mk **/o vihkosta AV4 (1968) +
+571II 0,05mk **/o vihkosta AV5 (1972) +
+571II 0,05mk **/o vihkosta AV? (1974) +
 
-577IIx 3mk Lentokone tyyppi II
++ 577IIx 3mk Lentokone tyyppi II
 
 743X **
 892X ** o
-1034 ** o
-1193 ** o
-1212 **
-1228 YA ** o
++ 1034 ** o
++ 1193 ** o
++ 1212 **
++ 1228 YA ** o
 
 
 Karjala +
