@@ -2,16 +2,9 @@
 1 5kop
 + 2 10 kop
 
-1866
-+ 10 1mk
-
 1885
 + 25 5mk
-26 10mk
-
-1891
-+ 46 3,5 rpl
-+ 47 7 rpl
+26 10mk +
 
 1901
 54 10mk +
@@ -23,18 +16,23 @@
 90B 10p
 93B 50p
 
+743X o +
+892X o +
+
+1866
++ 10 1mk
+
+1891
++ 46 3,5 rpl
++ 47 7 rpl
+
 + 571II 0,05mk **/o vihkosta AV4 (1968)
 + 571II 0,05mk **/o vihkosta AV5 (1972)
 + 571II 0,05mk **/o vihkosta AV? (1974)
 + 577IIx 3mk Lentokone tyyppi II
-
-743X **
-892X ** o
 + 1034 ** o
 + 1193 ** o
 + 1212 **
 + 1228 YA ** o
-
-
 + Karjala
 
