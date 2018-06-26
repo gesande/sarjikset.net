@@ -1,17 +1,24 @@
 1856
-1 5kop
+Lape 1 5kop
 + 2 10 kop
 
 1885
 + 25 5mk
-26 10mk
+Lape 26 10mk
 
 1911
 65B 40p
 
 1919-1920 ->
-90B 10p
-93B 50p
+Lape 90B 10p
+Lape 93B 50p
+
+
+1986
+Lape 781 Cx (Rukinlavat)
+
+1997
+823 II x (Michel) (Suomen vaakuna 20 mk)
 
 1866
 + 10 1mk
