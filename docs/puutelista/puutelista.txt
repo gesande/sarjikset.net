@@ -2,7 +2,8 @@ Aku Ankan taskukirjat
 462->
 
 Aku Ankan taskukirjat Teema
-4,25,27->47,53->
+4,27,28,30,31,32,33,34,36,37,38,39,
+41,42,43,44,45,46,47,54->
 
 Lucky Luke -albumit
 - Lännen sirkus
