@@ -2,17 +2,12 @@
 Lape 1 5kop
 + 2 10 kop
 
-1885
-+ 25 5mk
-Lape 26 10mk
-
 1911
 65B 40p
 
 1919-1920 ->
 Lape 90B 10p
 Lape 93B 50p
-
 
 1986
 Lape 781 Cx (Rukinlavat)
@@ -22,6 +17,10 @@ Lape 781 Cx (Rukinlavat)
 
 1866
 + 10 1mk
+
+1885
++ 25 5mk
++ Lape 26 10mk
 
 1891
 + 46 3,5 rpl
