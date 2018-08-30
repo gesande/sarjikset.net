@@ -1,14 +1,14 @@
 Aku Ankan taskukirjat
-462->
+462,467->
 
 Aku Ankan taskukirjat Teema
-4,27,28,30,31,32,33,34,36,37,38,39,
-41,42,43,44,45,46,47,54->
+4,27,28,30,31,32,33,34,36,37,
+42,43,45,46,47,55->
 
 Lucky Luke -albumit
-- Lännen sirkus
 - Daltonit tekevät parannuksen
 - Piikkilankoja preerialla
 - Lucky Luke saa haasteen
++ Lännen sirkus
 + Daltonin veljekset
 + Mies joka ampui Lucky Luken
