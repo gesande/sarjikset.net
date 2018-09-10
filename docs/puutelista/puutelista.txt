@@ -1,8 +1,8 @@
 Aku Ankan taskukirjat
-462,467->
+467->
 
 Aku Ankan taskukirjat Teema
-4,27,28,30,31,32,33,34,36,37,
+4,27,28,30,31,32,34,36,37,
 42,43,45,46,47,55->
 
 Lucky Luke -albumit

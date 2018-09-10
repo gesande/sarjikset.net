@@ -9,9 +9,6 @@ Lape 1 5kop
 Lape 90B 10p
 Lape 93B 50p
 
-1986
-Lape 781 Cx (Rukinlavat)
-
 1997
 823 II x (Michel) (Suomen vaakuna 20 mk)
 
@@ -19,7 +16,7 @@ Lape 781 Cx (Rukinlavat)
 + 10 1mk
 
 1885
-+ 25 5mk
++ Lape 25 5mk
 + Lape 26 10mk
 
 1891
@@ -28,6 +25,9 @@ Lape 781 Cx (Rukinlavat)
 
 1901
 + 54 10mk
+
+1986
++ Lape 781 Cx (Rukinlavat)
 
 + 571II 0,05mk **/o vihkosta AV4 (1968)
 + 571II 0,05mk **/o vihkosta AV5 (1972)
