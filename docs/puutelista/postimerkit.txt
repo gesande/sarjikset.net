@@ -1,9 +1,9 @@
 1856
-Lape 1 5kop
-+ 2 10 kop
+(+) Lape 1 5kop
++ Lape 2 10 kop
 
 1911
-65B 40p
+Lape 65B 40p
 
 1919-1920 ->
 Lape 90B 10p
