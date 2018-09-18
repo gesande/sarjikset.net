@@ -10,30 +10,33 @@ Lape 90B 10p
 Lape 93B 50p
 
 M-1975 Leijonamerkit (Michel)
-797 IIy
-760 IICx
-760 IIy
-761 IICx
-761 IICy
-785 IICx
-785 IIAx
-785 IIAy
-807 II
-818 IIbx
-834 IIy
-824 IIAx
-824 IICx
+(+) 760 IICx
+(+) 760 IIy
+(+) 761 IICx
+(+) 761 IICy
+(+) 785 IICx
+(+) 785 IIAx
+(+) 785 IIAy
+(+) 797 IIy
+(+) 807 II
+(+) 818 b II Ax
+(+) 818 b II Ay
+(+) 818 b II Cx
+(+) 818 b II Dx
+(+) 824 IIAx
+(+) 824 IICx
 824 IICy
+(+) 834 IIy
 835 IIy
-869
-876 IIAx
-876 IICx
-918 II
+(+) 869
+(+) 876 IIAx
+(+) 876 IICx
+(+) 918 II
 953 IIx
-978
-1035 IIAx
-1035 IICx
-1035 IICy
+(+) 978
+(+) 1035 IIAx
+(+) 1035 IICx
+(+) 1035 IICy
 
 1997
 823 II x (Michel) (Suomen vaakuna 20 mk)
