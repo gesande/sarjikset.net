@@ -21,7 +21,7 @@ M-1975 Leijonamerkit (Michel)
 (+) 818 b II Dx
 (+) 824 IIAx
 (+) 824 IICx
-824 IICy
+(+) 824 IICy
 (+) 834 IIy
 835 IIy
 (+) 869
@@ -33,9 +33,6 @@ M-1975 Leijonamerkit (Michel)
 (+) 1035 IIAx
 (+) 1035 IICx
 (+) 1035 IICy
-
-1997
-823 II x (Michel) (Suomen vaakuna 20 mk)
 
 1856
 + Lape 1 5kop
@@ -68,3 +65,4 @@ M-1975 Leijonamerkit (Michel)
 + 743X o
 + 892X o
 + 1983 Kenttäposti o
++ 823 II x (Michel) (Suomen vaakuna 20 mk)
