@@ -8,9 +8,10 @@ Lape 93B 50p
 M-1975 Leijonamerkit (Michel)
 
 offset vihko 1980/85
-0,30mk TYPE II A 11.5.84
-0,30mk TYPE II B 1.11.85
+0,30mk TYPE II A 11.5.84 ySL, Offset STIF (AV10)
+0,30mk TYPE II B (III) 1.11.85 yHS2 Offset PORO (AV12)
 
+1,00mk TYPE II B (III) 26.3.85 yHS32 WIFAG:ruskea (1969-03-1985)
 (+) 953 IIx
 
 2003 offset kukkamerkit
