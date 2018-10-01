@@ -6,33 +6,46 @@ Lape 90B 10p
 Lape 93B 50p
 
 M-1975 Leijonamerkit (Michel)
-(+) 760 IICx
-(+) 760 IIy
-(+) 761 IICx
-(+) 761 IICy
-(+) 785 IICx
-(+) 785 IIAx
-(+) 785 IIAy
-(+) 797 IIy
-(+) 807 II
-(+) 818 b II Ax
-(+) 818 b II Ay
-(+) 818 b II Cx
-(+) 818 b II Dx
-(+) 824 IIAx
-(+) 824 IICx
-(+) 824 IICy
-(+) 834 IIy
-835 IIy
-(+) 869
-(+) 876 IIAx
-(+) 876 IICx
-(+) 918 II
-953 IIx
-(+) 978
-(+) 1035 IIAx
-(+) 1035 IICx
-(+) 1035 IICy
+
+offset vihko 1980/85
+0,30mk TYPE II A 11.5.84
+0,30mk TYPE II B 1.11.85
+
+(+) 953 IIx
+
+2003 offset kukkamerkit
+2004 Joulupukki 13 1/2 x 13
+2004 Tarramerkki 1,30 hamm. 13 3/4
+2014 Sprintti kultamitali
+
+M-1975 Leijonamerkit (Michel)
++ 760 IICx
++ 760 IIy
++ 761 IICx
++ 761 IICy
++ 785 IICx
++ 785 IIAx
++ 785 IIAy
++ 797 IIy
++ 807 II
++ 818 b II Ax
++ 818 b II Ay
++ 818 b II Cx
++ 818 b II Dx
++ 824 IIAx
++ 824 IICx
++ 824 IICy
++ 834 IIy
++ 835 IIy
++ 869
++ 876 IIAx
++ 876 IICx
++ 918 II
+(+) 953 IIx
++ 978
++ 1035 IIAx
++ 1035 IICx
++ 1035 IICy
 
 1856
 + Lape 1 5kop
