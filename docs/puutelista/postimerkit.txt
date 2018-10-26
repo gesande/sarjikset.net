@@ -5,10 +5,9 @@ Lape 65B 40p
 Lape 90B 10p
 Lape 93B 50p
 
-(+) Lape 1540 I
 Lape 1570 II (2001->2004)
 Lape 1571 II (2001->2004)
-Lape 1600B
+(+) Lape 1600B
 
 Yleismerkit m/1975 käsikirja
 http://www.stamps.fi/index.php?sivu=2&avaatuote=1&t=6&tt=4&id=15369
@@ -16,12 +15,11 @@ http://www.stamps.fi/index.php?sivu=2&avaatuote=1&t=6&tt=4&id=15369
 M-1975 Leijonamerkit (Michel)
   offset vihko 1980/85
     (+) 0,30mk TYPE II A 11.5.84 ySL, Offset STIF (AV10)
-    (+) 0,30mk TYPE II B (III) 1.11.85 yHS2 Offset PORO (AV12)
 
 (+) 2001 Joulupukki 13 1/2 x 13
-(+) 2014 Sprintti kultamitali
 
 M-1975 Leijonamerkit (Michel)
++ 0,30mk TYPE II B (III) 1.11.85 yHS2 Offset PORO (AV12)
 + 760 IICx
 + 760 IIy
 + 761 IICx
@@ -82,3 +80,5 @@ M-1975 Leijonamerkit (Michel)
 + 892X o
 + 1983 Kenttäposti o
 + 823 II x (Michel) (Suomen vaakuna 20 mk)
++ Lape 1540 I
++ 2014 Sprintti kultamitali
