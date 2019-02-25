@@ -81,33 +81,23 @@ M63 kuvamerkit y-pap.
 1,00 ** (9.1.74)
 1,50 ** (26.2.74)
 
-M75 (fosforoiva paperi)
-0,60 mk I **
-0,80 mk I **
-1,20 mk I **
+M75
+Tyyppi I (y)
+0.60 mk 2.1.75 **
+0.80 mk 2.1.76 **
+1.20 mk 2.1.79 **
 
-0,10 mk II A **
-0,20 mk II A **
-0,30 mk II A **
-0,50 mk II A **
+Tyyppi II
+0.10 mk Cy 20.10.89 o yHS2 (AV14 2141-09-1989)
 
-0,10 mk II o C (20.10.89)
-
-Offset
-0,30 mk II B o (1.11.85) yHS2 Offset PORO (AV12)
-0,30 mk I ** (3.6.80)
-
-M75 tav. paperi
-
-0,20 mk II B ** (5.6.89)
-0,50 mk II B ** (13.3.89)
-1,50 mk II B ** (27.3.90)
-1,80 mk II B ** (25.7.88)
-
-C-hammaste (13 x 12 3/4)
-0,40 mk II B ** (18.4.94)
-0,50 mk II B ** (27.1.92)
-1,80 mk II B ** (25.7.88)
+Tyyppi III
+0.40 mk Cx 18.8.92 ** xX
+0.50 mk Ax 13.3.89 ** xX1
+0.50 mk Cx 27.1.92 ** xX2
+0.60 mk Cy 20.10.89 o yHS2 (AV14 2141-09-1989)
+1.00 mk Ay 26.3.85 ** yHS32
+1.80 mk Ay 4.1.88 ** ySL
+1.80 mk Ax 25.7.88 xX1
 
 
 
