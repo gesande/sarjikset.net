@@ -5,13 +5,13 @@
 1895/98 14:13 **
 
 1891
-1 p    o
-4 kop  **
-14 kop **
-20 kop **
-50 kop **
-3,50 r **
-7,00 r **
+1    kop  o
+4    kop  **
+14   kop  **
+20   kop  **
+50   kop  **
+3,50 rpl  **
+7,00 rpl  **
 
 1901 kivipaino
 10 p  **
