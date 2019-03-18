@@ -1,15 +1,15 @@
-1875/82 11" **
-1882/83 12 1/2 **
-1885    12 1/2 **
-1889    12 1/2 **
-1895/98 14:13 **
+1875/82 11" **/*
+1882/83 12 1/2 **/*
+1885    12 1/2 **/*
+1889    12 1/2 **/*
+1895/98 14:13 **/*
 
 1891
 1    kop  o
-4    kop  **
-14   kop  **
-20   kop  **
-50   kop  **
+(+) 4    kop  **/*
+(+) 14   kop  **/*
+(+) 20   kop  **/*
+(+) 50   kop  **/*
 3,50 rpl  **
 7,00 rpl  **
 
@@ -41,7 +41,7 @@
 20 p  ** A
 20 p  ** B
 
-1911/15
+1911/15 (kotkamerkit)
 5 p   ** A (14)
 10 p  ** AI
 10 p  ** AII
@@ -111,11 +111,8 @@ M54 kuvamerkit
 75,00 **
 
 M63 tav. pap.
-Lape 605 0,30 mk I harmaa ** (1.6.65)
-Lape 642 0,01 mk o (13.5.68)
-
-M63 kuvamerkit x-pap.
-3,00 mk II (577IIx)
+(+) Lape 605 0,30 mk I harmaa ** (1.6.65)
+(+) Lape 642 0,01 mk o (13.5.68)
 
 M63 kuvamerkit y-pap.
 0,50 ** (5.7.72)
@@ -165,6 +162,7 @@ Lape 93B 50p
 
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
++ M63 3,00 mk II (577IIx)
 + Yleismerkit m/1975 käsikirja (http://www.stamps.fi/index.php?sivu=2&avaatuote=1&t=6&tt=4&id=15369)
 
 + Lape 1570 II (2001 uusintapainos v. 2004)
