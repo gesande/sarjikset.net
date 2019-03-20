@@ -96,7 +96,6 @@ M30
 
 50/40 mk I+II **
 1,25/50 mk I **
-1,25/50 mk II o
 2,00/1,5 mk **
 2,75/2,00 mk **
 
@@ -162,13 +161,14 @@ Vaikeat:
 Lape 65B 40p (o/**)
 
 1919-1920 ->
-Lape 90B 10p
-Lape 93B 50p
+Lape 90B 10p (o/**)
+Lape 93B 50p (o/**)
 -------------------------------------------------------------------
 
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
-+ M63 3,00 mk II (577IIx)
++ M30 1,25/50 mk II o
++ M63 3,00 mk II (577IIx) (xHa5!)
 + Yleismerkit m/1975 käsikirja (http://www.stamps.fi/index.php?sivu=2&avaatuote=1&t=6&tt=4&id=15369)
 
 + Lape 1570 II (2001 uusintapainos v. 2004)
