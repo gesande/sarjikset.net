@@ -1,10 +1,17 @@
 Lape numerointi suluissa esim. (35) => Lape 35
 
+1856 */**
+1860 */**
+1866 */**
+
 1875/82 11" **/*
 1882/83 12 1/2 **/*
 1885    12 1/2 **/*
 1889    12 1/2 **/*
+(+) 2p
 (+) 5mk
+(+) 10mk
+
 1895/98 14:13 **/*
 
 1891
@@ -53,11 +60,70 @@ Lape numerointi suluissa esim. (35) => Lape 35
 10 p  ** BI (63B I)
 10 p  ** BIII (63B III)
 
-1922 o
-1927 o
-1928 o
-1929 o
-1930 o
+1918
+5 p  o
+5 mk o
+
+1919
+20 p o
+
+1921
+90p    o
+1,5 mk */** I
+1,5 mk */** II
+
+1922
+1,5mk o (hamm. 13)
+
+
+1917/29 Saarinen (ilman vesileimaa)
+25p o
+50 p  */**
+60 p  */**
+1 mk  */** (pun/musta)
+10 mk o
+25 mk o
+
+1929/30 Saarinen (valk. paperi)
+20 p   o
+40 p   o
+50 p   o
+1,5 mk **/*
+10 mk  o
+
+1929/30 Saarinen hamm. 14
+1 mk   o
+
+1925 Saarinen, hakaristi
+14 hammaste
+25 p   o
+40 p   o I
+40 p   */** II
+1 mk   */**
+1,5 mk */**
+2 mk   */**
+3 mk   */**
+5 mk   */**
+10 mk  o
+
+14 1/4 hammaste
+30 p   o
+40 p   */** I
+40 p   */** II
+1 mk   */**
+1,5 mk */**
+25 mk  o
+
+1927/29 postitorvi
+A hammaste
+1,5 mk  */**
+3 mk    */**
+
+B hammaste
+25 mk   o
+
+1928 näyttelymerkit */**
+
 1930 Zeppelin o
 
 M30
@@ -127,11 +193,12 @@ M75 (kuvamerkit)
 -------------------------------------------------------------------
 Vaikeat:
 1911
-Lape 65B 40p (o/**)
+Lape 65B 40p (o/*/**)
 
-1919-1920 ->
-Lape 90B 10p (o/**)
-Lape 93B 50p (o/**)
+1917/20
+Lape 90B 10p (o/*/**)
+Lape 93B 50p (o/*/**)
+
 -------------------------------------------------------------------
 
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
