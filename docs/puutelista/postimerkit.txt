@@ -8,14 +8,14 @@ Lape numerointi suluissa esim. (35) => Lape 35
 1882/83 12 1/2 **/*
 1885    12 1/2 **/*
 1889    12 1/2 **/*
-(+) 2p
-(+) 5mk
-(+) 10mk
++ 2p
++ 5mk
++ 10mk
 
 1895/98 14:13 **/*
 
 1891
-1    kop  o (35)
+(+) 1    kop  o (35)
 3,50 rpl  ** (46)
 7,00 rpl  ** (47)
 
@@ -45,7 +45,6 @@ Lape numerointi suluissa esim. (35) => Lape 35
 1 mk  ** (59A)
 
 1908/10 Helsingin laatta
-10 p  ** A (57A II)
 10 p  ** B (57B II)
 20 p  ** A (58A II)
 20 p  ** B (58B II)
@@ -126,21 +125,21 @@ B hammaste
 1930 Zeppelin o
 
 M30
-1,50 mk ** lila
-1,75 mk **
-2,00 mk ** pun
-2,50 mk ** sin
+(+) 1,50 mk ** lila
+(+) 1,75 mk **
+(+) 2,00 mk ** pun
+(+) 2,50 mk ** sin
 3,00 mk ** oliivi
-3,00 mk ** harmaa
-3,50 mk ** sin
-10,00 mk ** sin
-10,00 mk ** viol
-15,00 mk ** viol
+(+) 3,00 mk ** harmaa
+(+) 3,50 mk ** sin
+(+) 10,00 mk ** sin
+(+) 10,00 mk ** viol
+(+) 15,00 mk ** viol
 
-50/40 mk I+II **
-1,25/50 mk I **
-2,00/1,5 mk **
-2,75/2,00 mk **
+(+) 50/40 mk I+II **
+(+) 1,25/50 mk I **
+(+) 2,00/1,5 mk **
+(+) 2,75/2,00 mk **
 
 M54
 15,00 ** (oranssi)
@@ -190,6 +189,8 @@ Lape 93B 50p (o/*/**)
 
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
++ 10 p  ** A (57A II)
+
 M54 kuvamerkit
 + 5,00  **
 + 50,00 **
