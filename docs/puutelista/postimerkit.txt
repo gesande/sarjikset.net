@@ -81,7 +81,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 60 p  */** (103)
 (+) 1 mk  */** (pun/musta) (74)
 (+) 10 mk o (76)
-25 mk o (107)
++ 25 mk o (107)
 
 1929/30 Saarinen (valk. paperi)
 20 p   o (99B)
@@ -98,7 +98,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 25 p   o (113A)
 (+) 40 p   o I (115A)
 40 p   */** II (115A)
-1 mk   */** (118A)
++ 1 mk   */** (118A)
 (+) 1,5 mk */** (119A)
 2 mk   */** (120A)
 3 mk   */** (121A)
