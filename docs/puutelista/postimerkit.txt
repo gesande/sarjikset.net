@@ -8,7 +8,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 1882/83 12 1/2 **/*
 1885    12 1/2 **/*
 1889    12 1/2 **/*
-(+) 10p **
+(+) 5p *
 + 2p
 + 5mk
 + 10mk
@@ -16,7 +16,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 1895/98 14:13 **/*
 
 1891
-(+) 1    kop  o (35)
++ 1    kop  o (35)
 3,50 rpl  ** (46)
 7,00 rpl  ** (47)
 
@@ -24,7 +24,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 5 p   ** (48)
 
 1901 kivipaino
-(+) 5 p   ** (49)
++ 5 p   * (49)
 10 p  ** (50)
 20 p  ** (52)
 
@@ -32,23 +32,23 @@ Lape numerointi suluissa esim. (35) => Lape 35
 10 mk ** (54)
 
 1901/06 Berliinin laatta
-(+) 5 p   ** (56B)
++ 5 p   ** (56B)
 10 p  ** (57B)
-(+) 1 mk  ** (59B)
++ 1 mk  ** (59B)
 
 1903
-(+) 5 p   ** (56A)
++ 5 p   ** (56A)
 10 p  ** (57A)
 10 mk ** (60)
 
 1901/16
 20 p  ** (58A)
-(+) 1 mk  ** (59A)
++ 1 mk  ** (59A)
 
 1908/10 Helsingin laatta
 10 p  ** B (57B II)
 20 p  ** A (58A II)
-(+) 20 p  ** B (58B II)
++ 20 p  ** B (58B II)
 
 1911/15 (kotkamerkit)
 5 p   ** A (62A)
@@ -96,14 +96,14 @@ Lape numerointi suluissa esim. (35) => Lape 35
 1925 Saarinen, hakaristi
 14 hammaste
 25 p   o (113A)
-(+) 40 p   o I (115A)
++ 40 p   o I (115A)
 40 p   */** II (115A)
 + 1 mk   */** (118A)
 (+) 1,5 mk */** (119A)
 2 mk   */** (120A)
 3 mk   */** (121A)
 5 mk   */** (122A)
-(+) 10 mk  o (123A)
++ 10 mk  o (123A)
 
 14 1/4 hammaste
 30 p   o (114B)
