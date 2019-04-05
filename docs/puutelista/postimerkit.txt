@@ -8,7 +8,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 1882/83 12 1/2 **/*
 1885    12 1/2 **/*
 1889    12 1/2 **/*
-(+) 5p *
++ 5p *
 + 2p
 + 5mk
 + 10mk
@@ -16,7 +16,6 @@ Lape numerointi suluissa esim. (35) => Lape 35
 1895/98 14:13 **/*
 
 1891
-+ 1    kop  o (35)
 3,50 rpl  ** (46)
 7,00 rpl  ** (47)
 
@@ -24,7 +23,6 @@ Lape numerointi suluissa esim. (35) => Lape 35
 5 p   ** (48)
 
 1901 kivipaino
-+ 5 p   * (49)
 10 p  ** (50)
 20 p  ** (52)
 
@@ -62,7 +60,6 @@ Lape numerointi suluissa esim. (35) => Lape 35
 
 1918
 (+) 5 p  o
-(+) 5 mk o
 
 1919
 (+) 20/10 p o
@@ -79,7 +76,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 (+) 25p   o (92)
 50 p  */** (93)
 60 p  */** (103)
-(+) 1 mk  */** (pun/musta) (74)
++ 1 mk  */** (pun/musta) (74)
 (+) 10 mk o (76)
 + 25 mk o (107)
 
@@ -107,8 +104,8 @@ Lape numerointi suluissa esim. (35) => Lape 35
 
 14 1/4 hammaste
 30 p   o (114B)
-(+) 40 p   */** I (115B)
-(+) 40 p   */** II (115B)
++ 40 p   */** I (115B)
++ 40 p   */** II (115B)
 1 mk   */** (118B)
 1,5 mk */** (119B)
 25 mk  o (124B)
@@ -124,9 +121,6 @@ B hammaste
 1928 näyttelymerkit */**
 
 1930 Zeppelin o
-
-M30
-(+) 3,00 mk ** oliivi
 
 M54
 15,00 ** (oranssi)
@@ -176,6 +170,15 @@ Lape 93B 50p (o/*/**)
 
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
+M30
++ 3,00 mk ** oliivi
+
+1901 kivipaino
++ 5 p   * (49)
+
+1891
++ 1    kop  o (35)
+
 M30
 + 1,50 mk ** lila
 + 1,75 mk **
