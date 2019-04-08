@@ -7,6 +7,12 @@ Lape numerointi suluissa esim. (35) => Lape 35
 1875/82 11" **/*
 1882/83 12 1/2 **/*
 1885    12 1/2 **/*
++ 5 p  *
++ 10 p *
++ 20 p *
++ 25 p *
++ 1 mk *
+
 1889    12 1/2 **/*
 + 5p *
 + 2p
@@ -73,22 +79,22 @@ Lape numerointi suluissa esim. (35) => Lape 35
 1,5mk o (hamm. 13)
 
 1917/29 Saarinen (ilman vesileimaa)
-(+) 25p   o (92)
++ 25p   o (92)
 50 p  */** (93)
 60 p  */** (103)
 + 1 mk  */** (pun/musta) (74)
-(+) 10 mk o (76)
++ 10 mk o (76)
 + 25 mk o (107)
 
 1929/30 Saarinen (valk. paperi)
 20 p   o (99B)
 40 p   o (101B)
-(+) 50 p   o (102B)
++ 50 p   o (102B)
 1,5 mk **/* (142B)
 10 mk  o (76B)
 
 1929/30 Saarinen hamm. 14
-1 mk   o (100A)
+1 mk   o (110A)
 
 1925 Saarinen, hakaristi
 14 hammaste
@@ -96,7 +102,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 + 40 p   o I (115A)
 40 p   */** II (115A)
 + 1 mk   */** (118A)
-(+) 1,5 mk */** (119A)
+1,5 mk */** (119A)
 2 mk   */** (120A)
 3 mk   */** (121A)
 5 mk   */** (122A)
@@ -132,8 +138,6 @@ M63 kuvamerkit y-pap.
 1,30 ** (18.1.80)
 
 M75
-Tyyppi I (y)
-0.80 mk 2.1.76 **
 
 Tyyppi II
 0.10 mk Cy 20.10.89 o yHS2 (AV14 2141-09-1989)
@@ -170,6 +174,10 @@ Lape 93B 50p (o/*/**)
 
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
+M75
+Tyyppi I (y)
+0.80 mk 2.1.76 **
+
 M30
 + 3,00 mk ** oliivi
 
