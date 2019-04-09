@@ -14,12 +14,10 @@ Lape numerointi suluissa esim. (35) => Lape 35
 + 1 mk *
 
 1889    12 1/2 **/*
-+ 5p *
 + 2p
++ 5p *
 + 5mk
 + 10mk
-
-1895/98 14:13 **/*
 
 1891
 3,50 rpl  ** (46)
@@ -174,6 +172,8 @@ Lape 93B 50p (o/*/**)
 
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
++ 1895/98 14:13 **/*
+
 M75
 Tyyppi I (y)
 0.80 mk 2.1.76 **
