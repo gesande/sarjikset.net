@@ -60,30 +60,33 @@ Lape numerointi suluissa esim. (35) => Lape 35
 10 p  ** BIII (63B III)
 
 1918
-(+) 5 p  o
++ 5 p  o
 
 1919
-(+) 20/10 p o
++ 20/10 p o
 
 1921
-90p    o
-1,5 mk */** I
-1,5 mk */** II
+90p    o (96)
++ 1,5 mk */** I
+1,5 mk */** II (97)
 
 1922
 1,5mk o (hamm. 13)
 
 1917/29 Saarinen (ilman vesileimaa)
 + 25p   o (92)
-50 p  */** (93)
-60 p  */** (103)
+50 p  */** (93A)
+60 p  */** (103A)
 + 1 mk  */** (pun/musta) (74)
-+ 10 mk o (76)
-+ 25 mk o (107)
+2 mk */** (109A)
+3 mk */** (106A)
+5 mk */** (75A)
++ 10 mk o (76A)
++ 25 mk o (107A)
 
 1929/30 Saarinen (valk. paperi)
 20 p   o (99B)
-40 p   o (101B)
++ 40 p   o (101B)
 + 50 p   o (102B)
 1,5 mk **/* (142B)
 10 mk  o (76B)
@@ -93,6 +96,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 
 1925 Saarinen, hakaristi
 14 hammaste
+20 p o (112A)
 25 p   o (113A)
 + 40 p   o I (115A)
 40 p   */** II (115A)
@@ -104,7 +108,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 + 10 mk  o (123A)
 
 14 1/4 hammaste
-30 p   o (114B)
+30 p   o (114B) -
 + 40 p   */** I (115B)
 + 40 p   */** II (115B)
 1 mk   */** (118B)
@@ -119,12 +123,12 @@ A hammaste
 B hammaste
 25 mk   o (136B)
 
-1928 näyttelymerkit */**
++ 1928 näyttelymerkit */**
 
 1930 Zeppelin o
 
 M54
-15,00 ** (oranssi)
++ 15,00 ** (oranssi)
 30,00 **
 
 M63 kuvamerkit y-pap.
