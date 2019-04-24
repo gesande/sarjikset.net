@@ -50,10 +50,10 @@ Lape numerointi suluissa esim. (35) => Lape 35
 + 20 p  ** B (58B II)
 
 1911/15 (kotkamerkit)
-5 p   ** A (62A)
++ 5 p   ** A (62A)
 10 p  ** AI (63A I)
 10 p  ** AII (63A II)
-10 p  ** AIII (63A III)
++ 10 p  ** AIII (63A III)
 
 5 p   ** B (62B)
 10 p  ** BI (63B I)
@@ -88,7 +88,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 20 p   o (99B)
 + 40 p   o (101B)
 + 50 p   o (102B)
-1,5 mk **/* (142B)
++ 1,5 mk **/* (142B)
 10 mk  o (76B)
 
 1929/30 Saarinen hamm. 14
