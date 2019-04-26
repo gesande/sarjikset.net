@@ -68,9 +68,9 @@ Lape numerointi suluissa esim. (35) => Lape 35
 
 1917/29 Saarinen (ilman vesileimaa)
 50 p  */** (93A)
-2 mk */** (109A)
++ 2 mk */** (109A)
 3 mk */** (106A)
-5 mk */** (75A)
++ 5 mk */** (75A)
 
 1929/30 Saarinen (valk. paperi)
 20 p   o (99B)
@@ -101,7 +101,7 @@ B hammaste
 1930 Zeppelin o
 
 M54
-30,00 **
++ 30,00 **
 
 M63 kuvamerkit y-pap.
 0,50 ** (5.7.72)
