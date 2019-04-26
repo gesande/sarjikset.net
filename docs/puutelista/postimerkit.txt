@@ -38,7 +38,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 1903
 + 5 p   ** (56A)
 10 p  ** (57A)
-10 mk ** (60)
++10 mk ** (60)
 
 1901/16
 20 p  ** (58A)
