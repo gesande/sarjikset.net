@@ -100,9 +100,6 @@ B hammaste
 
 1930 Zeppelin o
 
-M54
-+ 30,00 **
-
 M63 kuvamerkit y-pap.
 0,50 ** (5.7.72)
 1,50 ** (26.2.74)
@@ -145,7 +142,9 @@ Lape 93B 50p (o/*/**)
 
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
+
 M54
++ 30,00 **
 + 15,00 ** (oranssi)
 
 1927/29 postitorvi
