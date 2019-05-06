@@ -41,7 +41,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 +10 mk ** (60)
 
 1901/16
-20 p  ** (58A)
++ 20 p  ** (58A)
 + 1 mk  ** (59A)
 
 1908/10 Helsingin laatta
@@ -74,8 +74,8 @@ Lape numerointi suluissa esim. (35) => Lape 35
 + 5 mk */** (75A)
 
 1929/30 Saarinen (valk. paperi)
-20 p   o (99B)
-10 mk  o (76B)
++ 20 p   o (99B)
++ 10 mk  o (76B)
 
 1929/30 Saarinen hamm. 14
 1 mk   o (110A)
@@ -87,8 +87,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 2 mk   */** (120A)
 
 14 1/4 hammaste
-30 p   o (114B) -
-1 mk   */** (118B)
++ 1 mk   */** (118B)
 1,5 mk */** (119B)
 25 mk  o (124B)
 
@@ -97,7 +96,7 @@ A hammaste
 1,5 mk  */** (131A)
 
 B hammaste
-25 mk   o (136B)
++ 25 mk   o (136B)
 
 1930 Zeppelin o
 
