@@ -61,7 +61,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 20 p  ** B (64B)
 
 1921
-90p    o (96)
+90p    o (96) +
 1,5 mk */** II (97)
 
 1922
