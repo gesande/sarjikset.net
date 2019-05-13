@@ -25,7 +25,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 
 1901 kivipaino
 10 p  ** (50)
-20 p  ** (52)
++ 20 p  ** (52)
 
 1901 tilapäisjulkaisu II
 10 mk ** (54)
@@ -45,32 +45,32 @@ Lape numerointi suluissa esim. (35) => Lape 35
 + 1 mk  ** (59A)
 
 1908/10 Helsingin laatta
-10 p  ** B (57B II)
++ 10 p  ** B (57B II)
 20 p  ** A (58A II)
 + 20 p  ** B (58B II)
 
 1911/15 (kotkamerkit)
 + 5 p   ** A (62A)
-10 p  ** AI (63A I)
-10 p  ** AII (63A II)
++ 10 p  ** AI (63A I)
++ 10 p  ** AII (63A II)
 + 10 p  ** AIII (63A III)
 
 5 p   ** B (62B)
 10 p  ** BI (63B I)
-10 p  ** BIII (63B III)
++ 10 p  ** BIII (63B III)
 20 p  ** B (64B)
 
 1921
-90p    o (96) +
-1,5 mk */** II (97)
++ 90p    o (96)
++ 1,5 mk */** II (97)
 
 1922
 1,5mk o (hamm. 13)
 
 1917/29 Saarinen (ilman vesileimaa)
-50 p  */** (93A)
++ 50 p  */** (93A)
 + 2 mk */** (109A)
-3 mk */** (106A)
++ 3 mk */** (106A)
 + 5 mk */** (75A)
 
 1929/30 Saarinen (valk. paperi)
@@ -84,11 +84,11 @@ Lape numerointi suluissa esim. (35) => Lape 35
 14 hammaste
 40 p   */** II (115A)
 1,5 mk */** (119A)
-2 mk   */** (120A)
++ 2 mk   */** (120A)
 
 14 1/4 hammaste
 + 1 mk   */** (118B)
-1,5 mk */** (119B)
++1,5 mk */** (119B)
 25 mk  o (124B)
 
 1927/29 postitorvi
