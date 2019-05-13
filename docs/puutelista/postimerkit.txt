@@ -23,59 +23,25 @@ Lape numerointi suluissa esim. (35) => Lape 35
 1901 pulajulkaisu
 5 p   ** (48)
 
-1901 kivipaino
-10 p  ** (50)
-+ 20 p  ** (52)
-
 1901 tilapäisjulkaisu II
 10 mk ** (54)
 
 1901/06 Berliinin laatta
-+ 5 p   ** (56B)
 10 p  ** (57B)
-+ 1 mk  ** (59B)
 
 1903
-+ 5 p   ** (56A)
 10 p  ** (57A)
-+10 mk ** (60)
-
-1901/16
-+ 20 p  ** (58A)
-+ 1 mk  ** (59A)
 
 1908/10 Helsingin laatta
-+ 10 p  ** B (57B II)
 20 p  ** A (58A II)
-+ 20 p  ** B (58B II)
 
 1911/15 (kotkamerkit)
-+ 5 p   ** A (62A)
-+ 10 p  ** AI (63A I)
-+ 10 p  ** AII (63A II)
-+ 10 p  ** AIII (63A III)
-
 5 p   ** B (62B)
 10 p  ** BI (63B I)
-+ 10 p  ** BIII (63B III)
 20 p  ** B (64B)
-
-1921
-+ 90p    o (96)
-+ 1,5 mk */** II (97)
 
 1922
 1,5mk o (hamm. 13)
-
-1917/29 Saarinen (ilman vesileimaa)
-+ 50 p  */** (93A)
-+ 2 mk */** (109A)
-+ 3 mk */** (106A)
-+ 5 mk */** (75A)
-
-1929/30 Saarinen (valk. paperi)
-+ 20 p   o (99B)
-+ 10 mk  o (76B)
 
 1929/30 Saarinen hamm. 14
 1 mk   o (110A)
@@ -84,19 +50,13 @@ Lape numerointi suluissa esim. (35) => Lape 35
 14 hammaste
 40 p   */** II (115A)
 1,5 mk */** (119A)
-+ 2 mk   */** (120A)
 
 14 1/4 hammaste
-+ 1 mk   */** (118B)
-+1,5 mk */** (119B)
 25 mk  o (124B)
 
 1927/29 postitorvi
 A hammaste
 1,5 mk  */** (131A)
-
-B hammaste
-+ 25 mk   o (136B)
 
 1930 Zeppelin o
 
@@ -142,6 +102,63 @@ Lape 93B 50p (o/*/**)
 
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
+
+
+1901 kivipaino
++ 10 p  ** (51)
++ 20 p  ** (52)
+
+1901/06 Berliinin laatta
++ 5 p   ** (56B)
++ 1 mk  ** (59B)
+
+1903
++ 5 p   ** (56A)
++10 mk ** (60)
+
+1901/16
++ 20 p  ** (58A)
++ 1 mk  ** (59A)
+
+1908/10 Helsingin laatta
++ 10 p  ** B (57B II)
++ 20 p  ** B (58B II)
+
+1911/15 (kotkamerkit)
++ 5 p   ** A (62A)
++ 10 p  ** AI (63A I)
++ 10 p  ** AII (63A II)
++ 10 p  ** AIII (63A III)
++ 10 p  ** BIII (63B III)
+
+1921
++ 90p    o (96)
++ 1,5 mk */** II (97)
+
+1922
+1,5mk o (hamm. 13)
+
+1917/29 Saarinen (ilman vesileimaa)
++ 50 p  */** (93A)
++ 2 mk */** (109A)
++ 3 mk */** (106A)
++ 5 mk */** (75A)
+
+1929/30 Saarinen (valk. paperi)
++ 20 p   o (99B)
++ 10 mk  o (76B)
+
+1925 Saarinen, hakaristi
+14 hammaste
++ 2 mk   */** (120A)
+
+14 1/4 hammaste
++ 1 mk   */** (118B)
++ 1,5 mk */** (119B)
+
+1927/29 postitorvi
+B hammaste
++ 25 mk   o (136B)
 
 M54
 + 30,00 **
