@@ -15,10 +15,12 @@ Lape numerointi suluissa esim. (35) => Lape 35
 10p (29A)
 20p (30A)
 25p (31A)
-
+-----------------
 1891
 3,50 rpl  ** (46)
 7,00 rpl  ** (47)
+
+-----------------
 
 1901 pulajulkaisu
 5 p   ** (48)
@@ -40,8 +42,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 10 p  ** BI (63B I)
 + 20 p  ** B (64B)
 
-1922
-1,5mk o (hamm. 13)
+-----------------
 
 1929/30 Saarinen hamm. 14
 1 mk   o (110A)
@@ -58,12 +59,18 @@ Lape numerointi suluissa esim. (35) => Lape 35
 A hammaste
 1,5 mk  */** (131A)
 
+-----------------
+
 1930 Zeppelin o
+
+-----------------
 
 M63 kuvamerkit y-pap.
 0,50 ** (5.7.72)
 1,50 ** (26.2.74)
 1,30 ** (18.1.80)
+
+-----------------
 
 M75
 
@@ -80,7 +87,6 @@ Tyyppi III
 1,00 mk Cx (20.2.98)
 
 M75 (kuvamerkit)
-0,90 y o (rullamerkki)
 1,80 x **
 2,20 x **
 2,50 x ** (14 hammaste)
@@ -103,6 +109,8 @@ Lape 93B 50p (o/*/**)
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
 
+M75 (kuvamerkit)
++ 0,90 y o (rullamerkki)
 
 1901 kivipaino
 + 10 p  ** (51)
