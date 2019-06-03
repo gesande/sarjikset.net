@@ -15,34 +15,18 @@ Lape numerointi suluissa esim. (35) => Lape 35
 10p (29A)
 20p (30A)
 25p (31A)
------------------
+
 1891
 3,50 rpl  ** (46)
 7,00 rpl  ** (47)
 
------------------
-
-1901 pulajulkaisu
-5 p   ** (48)
-
 1901 tilapäisjulkaisu II
 10 mk ** (54)
-
-1901/06 Berliinin laatta
-+ 10 p  ** (57B)
-
-1903
-10 p  ** (57A)
-
-1908/10 Helsingin laatta
-20 p  ** A (58A II)
 
 1911/15 (kotkamerkit)
 5 p   ** B (62B)
 10 p  ** BI (63B I)
-+ 20 p  ** B (64B)
 
------------------
 
 1929/30 Saarinen hamm. 14
 1 mk   o (110A)
@@ -50,7 +34,7 @@ Lape numerointi suluissa esim. (35) => Lape 35
 1925 Saarinen, hakaristi
 14 hammaste
 40 p   */** II (115A)
-1,5 mk */** (119A)
++ 1,5 mk */** (119A)
 
 14 1/4 hammaste
 25 mk  o (124B)
@@ -65,75 +49,37 @@ A hammaste
 
 -----------------
 
-1931
-172 **
-
 1932
 173 o
 
 1933
-188-190 o
-
-
-1937
-199 **
-
-1939
-217 **
-
-1941
-245 **
-254 **
-
-1948
-355 II **
-
-1951
-405 o
+181 o
+182 o
+183 o
 
 1955
 438 o
 
-1956
-457 o
+1961
+531 **
 
-
-1960
-523 **
-
-1969
-659 o
-
-1971
-688 o
-
-1977
+1970 ->
 815 o
 
+780x **
+781x **
+797x **
+851x **
+892x **
+918x **
+1034x **
 
-1979
+Vihkot + blokit
 V5 o
-
-1981
-878 o
-
-1982
 V6 o
-
-1985
 V7 o
 BL1 o
-
-1986
-V6 o
 BL2 o
-V8 o
-
-1988
-1054 o
-
-1989
-1088 o
 
 -----------------
 M63 kuvamerkit y-pap.
@@ -179,6 +125,20 @@ Lape 93B 50p (o/*/**)
 
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
+1901/06 Berliinin laatta
++ 10 p  ** (57B)
+
+1903
+10 p  ** (57A)
+
+1908/10 Helsingin laatta
+20 p  ** A (58A II)
+
+1911/15 (kotkamerkit)
++ 20 p  ** B (64B)
+
+1901 pulajulkaisu
+5 p   ** (48)
 
 M75 (kuvamerkit)
 + 0,90 y o (rullamerkki)
