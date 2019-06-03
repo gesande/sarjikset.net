@@ -49,19 +49,8 @@ A hammaste
 
 -----------------
 
-1932
-173 o
-
-1933
-181 o
-182 o
-183 o
-
 1955
 438 o
-
-1961
-531 **
 
 1970 ->
 815 o
@@ -125,20 +114,31 @@ Lape 93B 50p (o/*/**)
 
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
+1961
++531 **
+
+1932
++173 o
+
+1933
++181 o
++182 o
++183 o
+
 1901/06 Berliinin laatta
 + 10 p  ** (57B)
 
 1903
-10 p  ** (57A)
++10 p  ** (57A)
 
 1908/10 Helsingin laatta
-20 p  ** A (58A II)
++20 p  ** A (58A II)
 
 1911/15 (kotkamerkit)
 + 20 p  ** B (64B)
 
 1901 pulajulkaisu
-5 p   ** (48)
++5 p   ** (48)
 
 M75 (kuvamerkit)
 + 0,90 y o (rullamerkki)
