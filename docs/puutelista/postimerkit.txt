@@ -4,22 +4,7 @@ Lape numerointi suluissa esim.
 * = käyttämätön
 o = leimattu
 lo = loistoleimattu
-
-1856
-5 kop (1) **/*
-10 kop (2) **/*
-
-1860
-5 kop (3) **/*
-10 kop (4) **/*
-
-1866
-5p (5) **/*
-8p (6) **/*
-10p (7) **/*
-20p (8) **/*
-40p (9) **/*
-1mk (10) **/*
+UP = uusintapainos
 
 1875 köpis
 32p (11) **/*
@@ -51,15 +36,21 @@ lo = loistoleimattu
 25p (31A)
 
 1891
-3,50 rpl  ** (46)
-7,00 rpl  ** (47)
+3,50 rpl  **/* (46)
+7,00 rpl  **/* (47)
 
 1901 tilapäisjulkaisu II
-10 mk ** (54)
+10 mk */** (54)
 
 1911/15 (kotkamerkit)
-5 p   ** B (62B)
-10 p  ** BI (63B I)
+5 p   */** B (62B)
+10 p  */** BI (63B I)
+40 p  o/*/** (65B)
+
+1917/20 Saarinen
+40p (72B) */**
+10p (90B) o/*/**
+50p (93B) o/*/**
 
 1929/30 Saarinen hamm. 14
 1 mk   o (110A)
@@ -67,7 +58,6 @@ lo = loistoleimattu
 1925 Saarinen, hakaristi
 14 hammaste
 40 p   */** II (115A)
-+ 1,5 mk */** (119A)
 
 14 1/4 hammaste
 25 mk  o (124B)
@@ -81,12 +71,6 @@ A hammaste
 1930 Zeppelin o
 
 -----------------
-
-Vihkot + blokit
-V6 o
-
------------------
-
 M75
 
 Tyyppi II
@@ -101,28 +85,38 @@ Tyyppi III
 1.80 mk Ax 25.7.88 xX1
 1,00 mk Cx (20.2.98)
 
-M75 (kuvamerkit)
-1,80 x **
-2,20 x **
-2,50 x ** (14 hammaste)
-1,60 x **
-4,50 x ** (14 hammaste)
-6,00 x **
-7,00 x **
-
--------------------------------------------------------------------
-
-Vaikeat:
-1911
-40p (65B) */**
-
-1917/20
-10p (90B) o/*/**
-50p (93B) o/*/**
-
 -------------------------------------------------------------------
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
+M75 (kuvamerkit)
++ 1,80 x **
++ 2,20 x **
++ 2,50 x ** (14 hammaste)
++ 1,60 x **
++ 4,50 x ** (14 hammaste)
++ 6,00 x **
++ 7,00 x **
+
+1856
++ 5 kop (1) ** (UP 1862 II-painos)
++ 10 kop (2) ** (UP 1862 II-painos)
+
+1860
++ 5 kop (3) ** (UP)
++ 10 kop (4) ** (UP)
+
+1866
++ 5p (5) * (UP)
++ 8p (6) * (a III, vihreä paperi III-läviste)
++ 10p (7) * (UP)
++ 20p (8) * (UP)
++ 40p (9) * (UP)
++ 1mk (10) * (UP)
+
++ 1,5 mk ** (119A)
+
+Vihkot + blokit
+V6 o
 
 1955
 + 438 o
