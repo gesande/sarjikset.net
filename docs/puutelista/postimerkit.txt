@@ -19,12 +19,6 @@ UP = uusintapainos
 1882/83 12 1/2
 10p (18L) **/*
 
-1885 12 1/2
-10 mk (26) **/*
-
-1901 tilapäisjulkaisu II
-10 mk */** (54)
-
 1911/15 (kotkamerkit)
 5 p   */** B (62B)
 10 p  */** BI (63B I)
@@ -35,13 +29,7 @@ UP = uusintapainos
 10p (90B) o/*/**
 50p (93B) o/*/**
 
-1929/30 Saarinen hamm. 14
-1 mk   o (110A)
-
 1925 Saarinen, hakaristi
-14 hammaste
-40 p   */** II (115A)
-
 14 1/4 hammaste
 25 mk  o (124B)
 
@@ -51,9 +39,6 @@ A hammaste
 
 -----------------
 
-1930 Zeppelin o
-
------------------
 M75
 
 Tyyppi II
@@ -62,11 +47,26 @@ Tyyppi II
 Tyyppi III
 0.60 mk Cy 20.10.89 o yHS2 (AV14 2141-09-1989)
 
-860x **
-
 -------------------------------------------------------------------
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
+860x **
+
+1930 Zeppelin o
+
+1885 12 1/2
+10 mk (26) *
+
+1901 tilapäisjulkaisu II
+10 mk * (54)
+
+1925 Saarinen, hakaristi
+14 hammaste
+40 p   */** II (115A)
+
+1929/30 Saarinen hamm. 14
+1 mk   o (110A)
+
 937x **
 2037-11-1986 yX2
 84002a-01-1998 xX3
