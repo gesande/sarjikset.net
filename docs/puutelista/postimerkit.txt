@@ -10,15 +10,11 @@ UP = uusintapainos
 32p (11) **/*
 
 1875/82 11"
-10p (18S) **/* (V)
+10p (18S) **/*
 20p (15S) **/*
-25p (19S) **/* (V)
-32p (16S) **/* (V)
+25p (19S) **/*
+32p (16S) **/*
 1mk (17S) **/*
-
-1882/83 12 1/2
-10p (18L) **/* (V)
-1mk (17L) **/* (V)
 
 1911/15 (kotkamerkit)
 5 p   */** B (62B)
@@ -31,7 +27,7 @@ UP = uusintapainos
 
 1925 Saarinen, hakaristi
 14 hammaste
-40 p   */** II (115A)
+40 p   */** II (115A) (V)
 
 1925 Saarinen, hakaristi
 14 1/4 hammaste
@@ -57,6 +53,15 @@ Tyyppi III
 -------------------------------------------------------------------
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
+1875/82 11"
+8p * (UP)
+25p (19S) * (UP)
+32p (16S) **+* (UP)
+
+1882/83 12 1/2
+10p (18L) * 
+1mk (17L) ** 
+
 1911/15 (kotkamerkit)
 10 p  */** BI (63B I)
 
@@ -69,7 +74,6 @@ puutelista päättyy tähän (alla viimeisimmät hankinnat)
 
 1901 tilapäisjulkaisu II
 10 mk * (54)
-
 
 937x **
 2037-11-1986 yX2
