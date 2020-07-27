@@ -21,13 +21,8 @@ UP = uusintapainos
 40 p  o/*/** (65B)
 
 1917/20 Saarinen
-40p (72B) */** (V)
 10p (90B) o/*/**
 50p (93B) o/*/**
-
-1925 Saarinen, hakaristi
-14 hammaste
-40 p   */** II (115A) (V)
 
 1925 Saarinen, hakaristi
 14 1/4 hammaste
@@ -53,6 +48,13 @@ Tyyppi III
 -------------------------------------------------------------------
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
+1925 Saarinen, hakaristi
+14 hammaste
+40 p   ** II (115A)
+
+1917/20 Saarinen
+40p (72B) *
+
 1875/82 11"
 8p * (UP)
 25p (19S) * (UP)
