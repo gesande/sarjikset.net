@@ -68,54 +68,53 @@ Autopaketti
 10,00mk o (17)
 
 Kenttäposti
-1963 o (8)
+1963 o  (8)
 1983 ** (9)
 
 Pohjois-Inkeri
 1920 21.3
-5p **   (1)
-50p **  (4)
-1mk o   (5)
-5mk o   (6)
-5mk **  (6)
+5p   ** (1)
+50p  ** (4)
+1mk  o  (5)
+5mk  o  (6)
+5mk  ** (6)
 10mk o  (7)
 10mk ** (7)
 
 1920 17.8
-50p o    (10)
-80p o    (11)
-1mk (o)  (12)
-5mk (o)  (13)
-10mk (o) (14)
+50p  o (10)
+80p  o (11)
+1mk  o (12)
+5mk  o (13)
+10mk o (14)
 
 Aunus
-50p ** (5)
-50p o (5)
-1mk ** (6)
-1mk o (6)
-5mk ** (7)
-5mk o (7)
+50p  ** (5)
+50p  o  (5)
+1mk  ** (6)
+1mk  o  (6)
+5mk  ** (7)
+5mk  o  (7)
 10mk ** (8)
-10mk o (8)
+10mk o  (8)
 
 Karjala
 1-15 o
 
 Itä-Karjala
-1-7 o (Musta I)
+1-7     o (Musta I)
 
 1II-5II o (Musta II)
 
-2mk o (10 vihreä)
-3,5mk o (12 vihreä)
-5mk o (13 vihreä)
-10mk o (14 vihreä)
-25mk o (15 vihreä)
+2mk     o (10 vihreä)
+3,5mk   o (12 vihreä)
+5mk     o (13 vihreä)
+10mk    o (14 vihreä)
+25mk    o (15 vihreä)
 
-16-21 o (Mannerheim
+16-21   o (Mannerheim)
 
-3,50mk o (26 Ryti)
-
+3,50mk  o (26 Ryti)
 
 -----------------
 
