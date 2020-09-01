@@ -46,20 +46,14 @@ Autopaketti
 
 1952/58
 5mk   ** (6)
-20mk  ** (7)
-50mk  ** (8)
 100mk ** (9)
 
 1963
 0,20mk ** (11)
 
 1976/80  fosforoiva
-0,05mk o (10)
 0,20mk o (11)
 0,50mk o (12)
-0,50mk ** (12)
-1,00mk o (13)
-1,00mk ** (13)
 
 1981
 0,50mk  o (14)
@@ -68,13 +62,10 @@ Autopaketti
 10,00mk o (17)
 
 Kenttäposti
-1963 o  (8)
 1983 ** (9)
 
 Pohjois-Inkeri
 1920 21.3
-5p   ** (1)
-50p  ** (4)
 1mk  o  (5)
 5mk  o  (6)
 5mk  ** (6)
@@ -129,6 +120,23 @@ Tyyppi III
 -------------------------------------------------------------------
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
+Autopaketti
+1952/58
+20mk  ** (7)
+50mk  ** (8)
+
+1976/80  fosforoiva
+1,00mk o (13)
+
+
+Pohjois-Inkeri
+1920 21.3
+5p   * (1)
+50p  * (4)
+
+Kenttäposti
+1963 o  (8)
+
 1925 Saarinen, hakaristi
 14 hammaste
 40 p   ** II (115A)
