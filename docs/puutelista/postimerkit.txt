@@ -34,19 +34,12 @@ A hammaste
 1,5 mk  */** (131A)
 25 mk   o (136B)
 
-1929/30 Saarinen hamm. 14
-1 mk   o (110A)
-
 Autopaketti
 
 1949/50
 5mk  o (2)
 20mk o (3)
 50mk o (4)
-
-1952/58
-5mk   ** (6)
-100mk ** (9)
 
 1963
 0,20mk ** (11)
@@ -120,6 +113,13 @@ Tyyppi III
 -------------------------------------------------------------------
 puutelista päättyy tähän (alla viimeisimmät hankinnat)
 *******************************************************************
+Autopaketti 1952/58
+5mk   ** (6) (*)
+100mk ** (9) (*)
+
+1929/30 Saarinen hamm. 14
+1 mk   o (110A)
+
 Autopaketti
 1952/58
 20mk  ** (7)
